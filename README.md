@@ -1,5 +1,8 @@
-# **Rapico**
-<div style="width:100%; text-align:right; direction:rtl; line-height:30px">
+<div style="text-align:right">
+    <img src="./logo.png" alt="Rapico" />
+</div>
+<br/>
+<div style="width:100%; text-align:justify; direction:rtl; line-height:30px">
 <h2>سایت راپیکو</h2>
 من رامین رضایی به همراه دوستم پویا براتی ابتدای ورود به دانشگاه برای آموزش برنامه نویسی و نرم افزار هایی که بلد بودیم تصمیم گرفتیم یه سایت داشته باشیم که بتونیم حرفه ای تر کار کنیم. نتیجه این فکر راپیکو شد.
 <br/>
@@ -21,6 +24,7 @@
 خلاصه که اگه بیای یتیوب و ساب کنی خیلی بهم حال دادی.
 </div>
 <div style="width:100%; text-align:center;line-height:40px" >
+<br/>
 <hr/>
 <br/>
 <a href="https://www.youtube.com/channel/UCeS1ksj-Nb5qml9-VNcd2oA">YouTube Channel</a>
